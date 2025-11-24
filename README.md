@@ -2,6 +2,8 @@
 
 Welcome to the **Libft project**, My very first C library! 
 
+## Objective
+
 In this project, I implemented a set of basic C functions, which are similar to the standard library functions **(libc)** but from scratch as it is required in the subject. This, solidify my understanding of C programming fundamentals like string manipulation, memory handling, and working with low-level data structures.
 
 ## Table of Contents
@@ -18,10 +20,6 @@ In this project, I implemented a set of basic C functions, which are similar to 
 - [Compilation](#compilation)
 - [Usage](#usage)
 - [Testing](#testing)
-
-## Objective
-test
-
 
 ## Key Functions to Implement
 
